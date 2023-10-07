@@ -1,23 +1,15 @@
 ---
-title: Basic Data Structures
+title:   Behavioural Decison-making
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Nov. 13
+: [Biases and Heuristics](#)
+  : [Tversky & Kahneman (1974)](https://www.science.org/doi/abs/10.1126/science.185.4157.1124?casa_token=INV-gbX-_lUAAAAA:C2vKJBmabIzOUVa4cAyfF2j4QFlOsCWeQ1-I8IjAYQwOjpIC6jnQaBEBJ9I7wi5JQU4XSsVFNE4R), [[pdf]](https://econreadinggroup.github.io/assets/Tversky & Kahneman (1974, Sc).pdf)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+: [Standard Prospect Theory](#)
+  : [Kahneman & Tversky (1979)](https://econreadinggroup.github.io/assets/Kahneman & Tversky (1979, ECTA).pdf)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+: [Behavioural Guessing Games:](#)
+  : [Nagel (1995)](https://econreadinggroup.github.io/assets/Nagel (1995, AER).pdf)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
