@@ -1,5 +1,5 @@
 ---
-name: Egor B
+name: Egor Bronnikov
 role: Instructor
 email: e.v.bronnikov@gmail.com
 website: https://egorbronnikov.github.io/
