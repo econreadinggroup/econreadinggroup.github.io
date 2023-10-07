@@ -1,14 +1,24 @@
 ---
-title: Introduction to Java
+title:  Introduction to Behavioural Economics
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+October 30
+: [Intro Lecture](#)
+  : [Slides](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+November 13
+: [Biases and Heuristics](#)
+  : [Tversky & Kahneman (1974)](https://www.science.org/doi/abs/10.1126/science.185.4157.1124?casa_token=INV-gbX-_lUAAAAA:C2vKJBmabIzOUVa4cAyfF2j4QFlOsCWeQ1-I8IjAYQwOjpIC6jnQaBEBJ9I7wi5JQU4XSsVFNE4R)
+
+: [Biases and Heuristics](#)
+  : [Kahneman & Tversky (1979)](https://econreadinggroup.github.io/assets/Kahneman & Tversky (1979, ECTA).pdf)
+
+
+
+
+
+
+
 
 Sep 30
 : [Variables & Objects](#)
