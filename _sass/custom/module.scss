@@ -14,8 +14,8 @@
   }
 
   >dl {
-    border-bottom: $border $grey-000;
-    border-top: $border $grey-000;
+    border-bottom: $border $border-color;
+    border-top: $border $border-color;
     display: grid;
     grid-template-columns: max-content 1fr;
     margin: $sp-2 (-$sp-4);
@@ -43,12 +43,12 @@
 
     >dt {
       @extend %module-item;
-      border-top: $border $grey-000;
+      border-top: $border $border-color;
       font-weight: normal;
       text-align: right;
 
       +dd {
-        border-top: $border $grey-000;
+        border-top: $border $border-color;
       }
 
       &:first-child {
