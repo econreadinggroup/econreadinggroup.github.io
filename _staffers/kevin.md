@@ -1,9 +1,9 @@
 ---
-name: E B
+name: Egor B
 role: Instructor
-email: e@example.com
+email: e.v.bronnikov@gmail.com
 website: https://egorbronnikov.github.io/
-photo: egor.jpg
+photo: Egor_Bronnikov_photo.jpg
 meta:
   Office Hours: Somewhere on the internet
 ---
