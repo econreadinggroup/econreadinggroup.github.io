@@ -28,9 +28,9 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
+  E. B.:
+    - 'https://egorbronnikov.github.io/'
+  Reading Group on GitHub:
     - 'https://github.com/econreadinggroup/econreadinggroup.github.io'
 footer_content:
 
