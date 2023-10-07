@@ -43,7 +43,7 @@
 
     >dt {
       @extend %module-item;
-      border-top: $border #F5F5DC;
+      border-top: $border $border-color;
       font-weight: normal;
       text-align: right;
 
