@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  E. B.:
+  Egor Bronnikov:
     - 'https://egorbronnikov.github.io/'
   Reading Group on GitHub:
     - 'https://github.com/econreadinggroup/econreadinggroup.github.io'
