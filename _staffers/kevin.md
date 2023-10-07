@@ -1,9 +1,9 @@
 ---
-name: Kevin Lin
+name: E B
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: e@example.com
+website: https://egorbronnikov.github.io/
+photo: egor.jpg
 meta:
   Office Hours: Somewhere on the internet
 ---
