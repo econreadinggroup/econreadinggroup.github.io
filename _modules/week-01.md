@@ -13,6 +13,9 @@ Nov. 13
 : [Standard Prospect Theory](#)
   : [Kahneman & Tversky (1979)](https://econreadinggroup.github.io/assets/Kahneman & Tversky (1979, ECTA).pdf)
 
+: [Behavioural Guessing Games:](#)
+  : [Nagel (1995)](https://econreadinggroup.github.io/assets/Nagel (1995, AER).pdf)
+
 
 
 
