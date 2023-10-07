@@ -3,6 +3,6 @@ title:  Introduction to Behavioural Economics
 ---
 
 Oct. 30
-: [Intro Lecture](#)
+: [Introductory Lectur](#)
   : [Slides [TBA]](#)
 
