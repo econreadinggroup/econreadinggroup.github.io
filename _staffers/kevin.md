@@ -3,7 +3,7 @@ name: Egor B
 role: Instructor
 email: e.v.bronnikov@gmail.com
 website: https://egorbronnikov.github.io/
-photo: Egor_Bronnikov_photo.jpg
+photo: ph.png
 meta:
   Office Hours: Somewhere on the internet
 ---
