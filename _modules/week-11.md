@@ -8,7 +8,7 @@ title:  Gender & Economic Behaviour
   : [Dreber & Johannesson (2008)](#)
 
 : Beauty, Gender and Stereotypes
-  : [Andreoni & Petrie (2008).](#)
+  : [Andreoni & Petrie (2008)](#)
 
 : Gender Differences In Preferences
   : [Croson & Gneezy (2009)](#)
