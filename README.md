@@ -9,9 +9,6 @@ seo:
 ---
 
 # Behavioral Economics Reading Group
-
-## 2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
-
 ### 2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
 
 Welcome to the 2023 _Behavioral Economics Reading Group_ course!  
