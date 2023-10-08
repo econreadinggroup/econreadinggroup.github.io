@@ -16,7 +16,7 @@ This site will provide you with information and materials necessary for the cour
 
 - a [course syllabus](about.md);
 - a bi-weekly [course calendar](calendar.md) with readings;
-- a schematic [schedule](schedule.md); and 
+- a [schedule](schedule.md); and 
 - a [staff](staff.md) page.
 
 
