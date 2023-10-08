@@ -6,7 +6,9 @@ description: A listing of all the course staff members.
 
 # Staff
 
-If you are participating in the reading group course this year, please feel free to book an appointment (by clicking the button below). If you are interested in participating in this course next year, please feel free to email me.
+If you are participating in the reading group course this year, please feel free to book an appointment (by clicking the button below).
+
+If you are interested in participating in this course next year, please feel free to email me.
 
 
 ## Instructors
