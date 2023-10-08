@@ -4,7 +4,7 @@ title: Schedule
 description: The bi-weekly schedule.
 ---
 
-# Weekly Schedule
+# Bi-weekly Schedule
 
 The meetings are held bi-weekly on Mondays at 7 p.m. GMT+3 on Zoom.
 
