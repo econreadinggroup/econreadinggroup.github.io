@@ -4,11 +4,11 @@ title:  Methodological Papers
 
 
 [TBC]
-: [WEIRD People](#)
+: WEIRD People
   : [Henrich et al. (2010)](#)
 
-: [P-hacking](#)
+: P-hacking
   : [Brodeur et al. (2020)](#)
 
-: [Statistical Significance](#)
+: Statistical Significance
   : [Benjamin et al. (2018)](#)
