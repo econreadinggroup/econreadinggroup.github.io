@@ -10,22 +10,23 @@ seo:
 
 # Behavioral Economics Reading Group
 
+## 2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
 
-## Behavioral Economics Reading Group
+### 2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
 
 Welcome to the 2023 _Behavioral Economics Reading Group_ course!  
 
 The course is offered by the [Department of Economics](https://eusp.org/en/econ) at the [European University at Saint Petersburg](https://eusp.org/en)! 
 
-### Time: [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
 
-#### Time: 
 
-#### Location:
+#### Time: Bi-weekly on Mondays at 7 p.m. GMT+3.
 
-#### Language: 
+#### Location: Zoom. See my email for all Zoom meetings information (e.g. meeting links, authentication details, etc.).
 
-#### Instructor: 
+#### Language: Communication and discussion are held in Russian. All materials for the course are in English.
+
+#### Instructor: Egor Bronnikov ()
 
 #### More Details: 
 This site will provide you with information and materials necessary for the course, namely:
