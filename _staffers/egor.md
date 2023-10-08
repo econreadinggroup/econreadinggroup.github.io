@@ -8,4 +8,4 @@ meta:
   Office Hours:  By appointment
 ---
 
-[Book an appointment](https://calendly.com/egor-bronnikov/office-hours-for-the-eusp-reading-group-2023){: .btn .btn-outline }
+[Office Hours Appointment](https://calendly.com/egor-bronnikov/office-hours-for-the-eusp-reading-group-2023){: .btn .btn-outline }
