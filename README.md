@@ -17,6 +17,9 @@ The course is offered by the [Department of Economics](https://eusp.org/en/econ)
 
 
 
+### Behavioral Economics Reading Group
+2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
+
 #### Time: 
 - Bi-weekly on Mondays at 7 p.m. GMT+3.
 
