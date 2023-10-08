@@ -18,19 +18,18 @@ The course is offered by the [Department of Economics](https://eusp.org/en/econ)
 
 
 #### Time: 
-Bi-weekly on Mondays at 7 p.m. GMT+3.
+- Bi-weekly on Mondays at 7 p.m. GMT+3.
 
 #### Location: 
-Zoom. See my email for all Zoom meetings information (e.g. meeting links, authentication details, etc.).
+- Zoom. See my email for all Zoom meetings information (e.g. meeting links, authentication details, etc.).
 
 #### Language: 
-Communication and discussion are held in Russian. All materials for the course are in English.
+- Communication and discussion are held in Russian. All materials for the course are in English.
 
 #### Instructor: 
 Egor Bronnikov ()
 
 #### More Details: 
-This site will provide you with information and materials necessary for the course, namely:
 - a [course syllabus](about.md),
 - a bi-weekly [course calendar](calendar.md) with readings,
 - a bi-weekly [schedule](schedule.md), and 
