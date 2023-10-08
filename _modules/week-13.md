@@ -4,12 +4,12 @@ title:  Motivated Reasoning & Motivated Beliefs
 
 
 [TBC]
-: [Motivated Beliefs Dynamics](#)
+: Motivated Beliefs Dynamics
   : [Zimmermann (2020)](#)
 
-: [Motivated Beliefs & Social Exchange](#)
+: Motivated Beliefs & Social Exchange
   : [Oprea & Yuksel (2022)](#)
 
-: [Motivated Beliefs & Climate Change](#)
+: Motivated Beliefs & Climate Change
   : [Druckman & McGrath (2019)](#)
 
