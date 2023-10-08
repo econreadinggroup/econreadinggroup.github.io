@@ -35,7 +35,7 @@ schedule:
         start: 7:00 PM
         end: 9:00 PM
         location: Zoom
-    - name: Office Hours
+      - name: Office Hours
         start: 9:00 PM
         end: 10:00 PM
         location: Zoom
