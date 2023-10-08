@@ -1,5 +1,5 @@
 ---
-title:  <small>Introduction to Behavioural Economics</small>
+title:  Introduction to Behavioural Economics
 ---
 
 Oct. 30
