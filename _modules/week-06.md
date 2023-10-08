@@ -4,13 +4,13 @@ title:  Cooperation & Punishment
 
 
 [TBC]
-: [Cooperation and Punishment](#)
+: Cooperation and Punishment
   : [Fehr & Gächter (2000)](#)
 
-: [Altruistic Punishment](#)
+: Altruistic Punishment
   : [Fehr & Gächter (2002)](#)
 
-: [Antisocial Punishment](#)
+: Antisocial Punishment
   : [Herrmann et al. (2008)](#)
 
 
