@@ -29,18 +29,20 @@ timeline:
   - '22:00'
   - '22:30'
 schedule:
+  - name: Sunday
   - name: Monday
     events:
       - name: Reading Group Meeting
-        start: 19:00
-        end: 21:00
+        start: 7:00 PM
+        end: 9:00 PM
         location: Zoom
       - name: Office Hours
-        start: 21:00
-        end: 22:00
+        start: 9:00 PM
+        end: 10:00 PM
         location: Zoom
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
   - name: Friday
+  - name: Saturday
 ---
