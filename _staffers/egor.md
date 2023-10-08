@@ -8,4 +8,4 @@ meta:
   Office Hours:  By appointment
 ---
 
-[Send an email](mailto:e.v.bronnikov@gmail.com){: .btn .btn-outline }
+[Book an appointment](https://calendly.com/egor-bronnikov/office-hours-for-the-eusp-reading-group-2023){: .btn .btn-outline }
