@@ -32,9 +32,9 @@ Welcome to the 2023 _Behavioral Economics Reading Group_ course offered by the D
 <br /> 
 
 #### More Details: 
-- a [course syllabus](about.md),
-- a [course calendar](calendar.md) with readings,
-- a [schedule](schedule.md), and 
-- a [contact-information](staff.md) page.
+- [a course syllabus](about.md),
+- [a course calendar with readings](calendar.md),
+- [a course schedule](schedule.md), and 
+- [a contact-information page](staff.md).
 
 
