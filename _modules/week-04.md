@@ -1,5 +1,5 @@
 ---
-title:  Altrusitic Behaviour
+title:  Altruistic Behaviour
 ---
 
 
