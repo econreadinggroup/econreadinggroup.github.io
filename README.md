@@ -8,8 +8,6 @@ seo:
   name: Behav. Econ. Reading Group
 ---
 
-# Behavioural Economics Reading Group
-
 Welcome to the 2023 _Behavioral Economics Reading Group_ course!  
 
 The course is offered by the [Department of Economics](https://eusp.org/en/econ) at the [European University at Saint Petersburg](https://eusp.org/en)! 
