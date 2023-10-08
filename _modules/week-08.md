@@ -4,13 +4,13 @@ title:  Discrimination
 
 
 [TBC]
-: [Labor Discrimination](#)
+: Labor Discrimination
   : [Bertrand & Mullainathan (2004)](#)
 
-: [Trust Discrimination](#)
+: Trust Discrimination
   : [Falk & Zehnder (2013)](#)
 
-: [Discrimination Meta-analysis](#)
+: Discrimination Meta-analysis
   : [Lane (2016)](#)
 
 
