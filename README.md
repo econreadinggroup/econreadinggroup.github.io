@@ -10,7 +10,7 @@ seo:
 
 # Behavioural Economics Reading Group
 
-Welcome to the Behavioral Economics Reading Group course at the Department of Economics at the European University at Saint Petersburg! 
+Welcome to the _Behavioral Economics Reading Group_ course at the [Department of Economics](https://eusp.org/en/econ) at the [European University at Saint Petersburg](https://eusp.org/en)! 
 
 This site will provide you with information and materials necessary for the course, namely:
 
