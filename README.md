@@ -9,9 +9,6 @@ seo:
 ---
 
 ### Behavioral Economics Reading Group
-**2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)**
-
-### Behavioral Economics Reading Group
 2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
 
 Welcome to the 2023 _Behavioral Economics Reading Group_ course offered by the Department of Economics at the European University at Saint Petersburg. Here, you can find an organizational summary and links to more detailed information.
@@ -27,8 +24,7 @@ Welcome to the 2023 _Behavioral Economics Reading Group_ course offered by the D
 - Communication and discussion are held in Russian. All materials for the course are in English.
 
 #### Instructor: 
-- Egor Bronnikov (Maastricht University, FUM , EUSP)
-- Egor Bronnikov (Maastricht University, Free University of Moscow, European University at SP)
+- Egor Bronnikov ([Maastricht University](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics), [Free University of Moscow](https://freemoscow.university/school/shkola-tochnyh-nauk/), [European University at SP](https://eusp.org/en/econ))
 
 
 #### More Details: 
