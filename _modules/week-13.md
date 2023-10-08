@@ -7,7 +7,7 @@ title:  Motivated Reasoning & Motivated Beliefs
 : <small>Motivated Beliefs Dynamics</small>
   : [Zimmermann (2020)](#)
 
-: <small>Motivated Beliefs & Social Exchange</small>
+: <span class='notbold'>Motivated Beliefs & Social Exchange</span>
   : [Oprea & Yuksel (2022)](#)
 
 : <em>Motivated Beliefs & Climate Change</em>
