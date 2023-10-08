@@ -11,6 +11,6 @@ title:  Deception & Truth-telling Preferences
   : [Abeler et al. (2014)](#)
 
 : Truthtelling Preferences
-  : [Abeler et al. (2014))](#)
+  : [Abeler et al. (2014)](#)
 
 
