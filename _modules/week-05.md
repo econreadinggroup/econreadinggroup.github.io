@@ -3,16 +3,16 @@ title:  Fairness
 ---
 
 
-[TBC]
-: [Inequity Aversion](#)
+[_TBC_]
+: Inequity Aversion
   : [Fehr & Schmidt (1999)](#)
 
-: [Fairness Rules Pluralism](#)
+: Fairness Rules Pluralism
   : [Cappelen et al. (2007)](#)
 
-: [Intuitiveness of Fairness](#)
+: Intuitiveness of Fairness
   : [Cappelen et al. (2016)](#)
 
-: [Intuitiveness of Fairness](#)
+: Intuitiveness of Fairness
   : [Merkel & Lohse (2019)](#)
 
