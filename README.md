@@ -24,7 +24,7 @@ The course is offered by the [Department of Economics](https://eusp.org/en/econ)
 - Bi-weekly on Mondays at 7 p.m. GMT+3.
 
 #### Location: 
-- Zoom. See my email for all Zoom meetings information (e.g. meeting links, authentication details, etc.).
+- Zoom. See my email for all meetings information (e.g. meeting links, authentication details, etc.).
 
 #### Language: 
 - Communication and discussion are held in Russian. All materials for the course are in English.
