@@ -18,11 +18,11 @@ description: >-
 
 ## About
 
-This is a _Behavioral Economics Reading Group_ course. This course is offered by the [Department of Economics](https://eusp.org/en/econ) at the [European University at Saint Petersburg](https://eusp.org/en). The course is designed to introduce graduate students to classical and recent literature on various topics predominantly in the domain of behavioral economics and political economy.
+This is a _Behavioral Economics Reading Group_ course. This course is offered by the [Department of Economics](https://eusp.org/en/econ) at the [European University at Saint Petersburg](https://eusp.org/en). The course is designed to introduce graduate students to classical and recent literature on various topics predominantly in the domain of behavioral economics and political economy. 
 
-## Lecture
+## Lectures & Tutotials
 
-The course is designed to function as a discussion group; therefore, no explicit lectures are scheduled, except for the first one—an introduction to the field, which will be delivered during the initial meeting.
+The course is designed to function as a discussion group; therefore, no explicit lectures are scheduled, except for the first one—an introduction to the field, which will be delivered during the initial meeting. Overall, there will be one introductory lecture and eight discussion meetings. At the beginning of the course, participants will vote to choose eight topics out of the following 16.
 
 
 ## Prerequisites
