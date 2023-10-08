@@ -5,7 +5,7 @@ email: e.v.bronnikov@gmail.com
 website: https://egorbronnikov.github.io/
 photo: ph.png
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours:  By appointment
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Send an email](mailto:e.v.bronnikov@gmail.com){: .btn .btn-outline }
