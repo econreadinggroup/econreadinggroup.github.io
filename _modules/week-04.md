@@ -3,16 +3,16 @@ title:  Altruistic Behaviour
 ---
 
 
-[TBC]
-: [Bargaining and Fairness](#)
+[_TBC_]
+: Bargaining and Fairness
   : [Forsythe et al. (1994)](#)
 
-: [Dictator-Game Meta-study](#)
+: Dictator-Game Meta-study
   : [Engel (2011)](#)
 
-: [Testing GARP](#)
+: Testing GARP
   : [Andreoni & Miller (2002)](#)
 
-: [Dictator-Game Interpretation](#)
+: Dictator-Game Interpretation
   : [List (2007)](#)
 
