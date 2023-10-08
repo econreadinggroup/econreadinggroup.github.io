@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-description: The weekly event schedule.
+description: The bi-weekly schedule.
 ---
 
 # Weekly Schedule
