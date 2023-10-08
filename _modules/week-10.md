@@ -4,13 +4,13 @@ title:  Promises
 
 
 [TBC]
-: [Promises and Partnership](#)
+: Promises and Partnership
   : [Charness & Dufwenberg (2006)](#)
 
-: [Keeping Promises](#)
+: Keeping Promises
   : [Vanberg (2008)](#)
 
-: [Bare Promises](#)
+: Bare Promises
   : [Charness & Dufwenberg (2010)](#)
 
 
