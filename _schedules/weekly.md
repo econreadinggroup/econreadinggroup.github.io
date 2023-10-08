@@ -27,7 +27,6 @@ schedule:
       - name: Office Hours
         start: 9:00 PM
         end: 10:00 PM
-        location: Zoom
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
