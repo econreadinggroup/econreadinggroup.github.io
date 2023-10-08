@@ -30,7 +30,7 @@ The course is offered by the [Department of Economics](https://eusp.org/en/econ)
 - Communication and discussion are held in Russian. All materials for the course are in English.
 
 #### Instructor: 
-Egor Bronnikov ()
+- Egor Bronnikov ()
 
 #### More Details: 
 - a [course syllabus](about.md),
