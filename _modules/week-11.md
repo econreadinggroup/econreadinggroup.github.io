@@ -4,16 +4,16 @@ title:  Gender & Economic Behaviour
 
 
 [TBC]
-: [Gender Differences](#)
+: Gender Differences
   : [Dreber & Johannesson (2008)](#)
 
-: [Beauty, Gender and Stereotypes](#)
+: Beauty, Gender and Stereotypes
   : [Andreoni & Petrie (2008).](#)
 
-: [Gender Differences In Preferences](#)
+: Gender Differences In Preferences
   : [Croson & Gneezy (2009)](#)
 
-: [Gender Indentity and Income](#)
+: Gender Indentity and Income
   : [Bertrand et al. (2015)](#)
 
 
