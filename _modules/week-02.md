@@ -1,5 +1,5 @@
 ---
-title:   Behavioural Decison-making
+title:   Behavioural Decision-making
 ---
 
 
