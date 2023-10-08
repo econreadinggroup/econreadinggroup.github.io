@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Staff & Contact
 description: A listing of all the course staff members.
 ---
 
