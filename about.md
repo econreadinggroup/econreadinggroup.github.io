@@ -18,7 +18,7 @@ description: >-
 
 ## About
 
-This course is offered by the Department of Economics at the European University at Saint Petersburg. The course is designed to introduce graduate students to classical and recent literature on various topics predominantly in the domain of behavioral economics and political economy.
+This is a _Behavioral Economics Reading Group_ course. This course is offered by the Department of Economics at the European University at Saint Petersburg. The course is designed to introduce graduate students to classical and recent literature on various topics predominantly in the domain of behavioral economics and political economy.
 
 ## Lecture
 
