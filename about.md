@@ -71,7 +71,14 @@ Any instance of academic dishonesty will be considered a grave offense. Each par
 All resources will be made available to course participants.
 
 
+## Syllabbus Pdf
 
+Syllabus of the MSc level course:
+                  
+<embed src="https://econreadinggroup.github.io/assets/BehEc_Reading_Group.pdf" width=100% height="250px" type="application/pdf">
+ 
+
+                  
 
 
 
