@@ -25,7 +25,9 @@ Welcome to the 2023 _Behavioral Economics Reading Group_ course offered by the D
 - Communication and discussion are held in Russian. All materials for the course are in English.
 
 #### Instructor: 
-- Egor Bronnikov ()
+- Egor Bronnikov (Maastricht University, FUM , EUSP)
+- Egor Bronnikov (Maastricht University, Free University of Moscow, European University at Saint Petersburg)
+
 
 #### More Details: 
 - a [course syllabus](about.md),
