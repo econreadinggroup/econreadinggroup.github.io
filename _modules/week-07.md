@@ -4,13 +4,13 @@ title:  Deception & Truth-telling Preferences
 
 
 [TBC]
-: [Lying](#)
+: Lying
   : [Fischbacher & Föllmi-Heusi (2013)](#)
 
-: [Lying Costs](#)
+: Lying Costs
   : [Abeler et al. (2014)](#)
 
-: [Truthtelling Preferences](#)
+: Truthtelling Preferences
   : [Abeler et al. (2014))](#)
 
 
