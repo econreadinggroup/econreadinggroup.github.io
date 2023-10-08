@@ -32,7 +32,7 @@ Intermediate courses in Calculus, Linear Algebra, Probability Theory, and Mathem
 ## Grading
 
 The grade for the course will be based 50% on the quality of the group discussions and 50% on the research proposal. 
-Students who score 55 points or more during the course are considered to have successfully passed. There are two grades available: one for those who passed the course (55-84) and another for those who passed with distinction (85-100). Please note that in the event of plagiarism detection, the paper will receive a score of 0 (refer to subsection 1.5 for details).
+Students who score 55 points or more during the course are considered to have successfully passed. There are two grades available: one for those who passed the course (55-84) and another for those who passed with distinction (85-100). Please note that in the event of plagiarism detection, the paper will receive a score of 0 (refer to section 7 for details).
 
 
 ## Research Proposal
@@ -61,14 +61,14 @@ A discussion of the limitations of the proposed experimental study should be pro
 
 Each participant in the course is expected to familiarize themselves with all the papers scheduled for a particular meeting (detailed information on the meeting schedule and respective readings will be available here after the first course meeting). Being prepared to discuss the key aspects of each paper—its motivation, theoretical/empirical/experimental background, hypotheses, research methodology, key findings, and general discussion—is essential to fully participate in the group discussion.
 
-## Resources
-
-All resources will be made available to course participants.
-
 
 ## Fraud, Plagiarism, & Academic Integrity
 
 Any instance of academic dishonesty will be considered a grave offense. Each participant in the course is expected to be familiar with and adhere to the norms and values that uphold academic integrity. The most severe transgressions that undermine this integrity include fraud and plagiarism. Plagiarism, a type of fraud, is defined as the unauthorized use of another author’s work without appropriate citation. Please be aware that the deliberate usage of AI-generated content (e.g., ChatGPT) in the final paper will be deemed as fraud. In the event that the course instructor uncovers a case of fraud or plagiarism, the University’s Ethical Committee may impose substantial sanctions on the offender. The most stringent sanction that the Committee may impose is the submission of a request for the student’s expulsion to the University Board.
+
+## Resources
+
+All resources will be made available to course participants.
 
 
 
