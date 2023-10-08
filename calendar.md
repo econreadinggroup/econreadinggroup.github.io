@@ -4,7 +4,7 @@ title: Calendar
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Calendar & Readings
 
 The meetings are held bi-weekly on Mondays at 7 p.m. GMT+3 on Zoom.
 
