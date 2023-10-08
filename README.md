@@ -8,12 +8,19 @@ seo:
   name: Behav. Econ. Reading Group
 ---
 
+# Behavioral Economics Reading Group
+### 2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
+
+## Behavioral Economics Reading Group
+### 2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
+
+
+### Behavioral Economics Reading Group
+### 2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
+
+
 ### Behavioral Economics Reading Group
 2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
-
-BEHAVIORAL ECONOMICS READING GROUP
-2023-2024, [Department of Economics](https://eusp.org/en/econ), [European University at Saint Petersburg](https://eusp.org/en)
-
 
 Welcome to the 2023 _Behavioral Economics Reading Group_ course offered by the Department of Economics at the European University at Saint Petersburg. Here, you can find an organizational summary and links to more detailed information.
 
