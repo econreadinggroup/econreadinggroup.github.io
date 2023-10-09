@@ -11,5 +11,5 @@ title:  (Dis)Information & Propaganda
   : [Adena et al. (2015)](https://econreadinggroup.github.io/assets/Adena et al. (2015, QJE).pdf)
 
 : Opinions As Facts
-  : [Bursztyn et al. (2023)]https://econreadinggroup.github.io/assets/Bursztyn et al. (2023, REStud).pdf)
+  : [Bursztyn et al. (2023)](https://econreadinggroup.github.io/assets/Bursztyn et al. (2023, REStud).pdf)
 
