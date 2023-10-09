@@ -5,12 +5,12 @@ title:  Deception & Truth-telling Preferences
 
 [TBC]
 : Lying
-  : [Fischbacher & Föllmi-Heusi (2013)](#)
+  : [Fischbacher & Föllmi-Heusi (2013)](https://econreadinggroup.github.io/assets/Fischbacher & Föllmi-Heusi (2013, JEEA).pdf)
 
 : Lying Costs
-  : [Abeler et al. (2014)](#)
+  : [Abeler et al. (2014)](https://econreadinggroup.github.io/assets/Abeler et al. (2014, JPublEc).pdf)
 
 : Truthtelling Preferences
-  : [Abeler et al. (2014)](#)
+  : [Abeler et al. (2014)](https://econreadinggroup.github.io/assets/Abeler et al. (2014, ECTA).pdf)
 
 
