@@ -3,7 +3,7 @@ title:  Promises
 ---
 
 
-[TBC]
+[_TBC_]
 : Promises and Partnership
   : [Charness & Dufwenberg (2006)](https://econreadinggroup.github.io/assets/Charness & Dufwenberg (2006, ECTA).pdf)
 
