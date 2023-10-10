@@ -14,4 +14,4 @@ title:  Internet, Social-Media & Politics
   : [Enikolopov et al. (2020)](https://econreadinggroup.github.io/assets/Enikolopov et al. (2020, ECTA).pdf)
 
 : Internet and Social Media Effects
-  : [Zhuravskaya et al. (2020)](https://econreadinggroup.github.io/assets/Zhuravskaya et al. (2020, ERT).pdf)
+  : [Zhuravskaya et al. (2020)](https://econreadinggroup.github.io/assets/Zhuravskaya et al. (2020, ARE).pdf)
