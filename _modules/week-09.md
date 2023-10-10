@@ -3,7 +3,7 @@ title:  Competition & Gender
 ---
 
 
-[TBC]
+[_TBC_]
 : Gender Differences
   : [Niederle & Vesterlund (2007)](https://econreadinggroup.github.io/assets/Niederle & Vesterlund (2007, QJE).pdf)
 
