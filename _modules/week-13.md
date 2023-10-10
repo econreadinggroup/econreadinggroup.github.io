@@ -3,7 +3,7 @@ title:  Motivated Reasoning & Motivated Beliefs
 ---
 
 
-[TBC]
+[_TBC_]
 : Motivated Beliefs Dynamics
   : [Zimmermann (2020)](https://econreadinggroup.github.io/assets/Zimmermann (2020, AER).pdf)
 
