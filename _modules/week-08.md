@@ -3,7 +3,7 @@ title:  Discrimination
 ---
 
 
-[TBC]
+[_TBC_]
 : Labor Discrimination
   : [Bertrand & Mullainathan (2004)](https://econreadinggroup.github.io/assets/Bertrand & Mullainathan (2004, AER).pdf)
 
