@@ -3,7 +3,7 @@ title:  Cooperation & Punishment
 ---
 
 
-[TBC]
+[_TBC_]
 : Cooperation and Punishment
   : [Fehr & Gächter (2000)](https://econreadinggroup.github.io/assets/Fehr & Gächter (2000, AER).pdf)
 
