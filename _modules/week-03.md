@@ -3,7 +3,7 @@ title:  Classical Market Experiments
 ---
 
 
-[TBC]
+[_TBC_]
 : Market Experiments
   : [Smith (1962)](https://econreadinggroup.github.io/assets/Smith (1962, JPE).pdf)
   
