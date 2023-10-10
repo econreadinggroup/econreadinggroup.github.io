@@ -5,7 +5,7 @@ title:  Gender & Economic Behaviour
 
 [TBC]
 : Gender Differences
-  : [Dreber & Johannesson (2008)](https://econreadinggroup.github.io/assets/Dreber & Johannesson (2008, EconLet).pdf)
+  : [Dreber & Johannesson (2008)](https://econreadinggroup.github.io/assets/Dreber & Johannesson (2008, EcLet).pdf)
 
 : Beauty, Gender and Stereotypes
   : [Andreoni & Petrie (2008)](https://econreadinggroup.github.io/assets/Andreoni & Petrie (2008, JEP).pdf)
