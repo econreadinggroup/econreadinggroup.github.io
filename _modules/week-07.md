@@ -3,7 +3,7 @@ title:  Deception & Truth-telling Preferences
 ---
 
 
-[TBC]
+[_TBC_]
 : Lying
   : [Fischbacher & Föllmi-Heusi (2013)](https://econreadinggroup.github.io/assets/Fischbacher & Föllmi-Heusi (2013, JEEA).pdf)
 
