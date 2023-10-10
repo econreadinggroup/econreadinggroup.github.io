@@ -3,7 +3,7 @@ title:  Methodological Papers
 ---
 
 
-[TBC]
+[_TBC_]
 : WEIRD People
   : [Henrich et al. (2010)](https://econreadinggroup.github.io/assets/Henrich et al. (2010, Nat).pdf)
 
