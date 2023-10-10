@@ -3,7 +3,7 @@ title:  (Dis)Information & Propaganda
 ---
 
 
-[TBC]
+[_TBC_]
 : Propaganda & Rwandan Genocide
   : [Yanagizawa-Drott (2014)](https://econreadinggroup.github.io/assets/Yanagizawa-Drott (2014, QJE).pdf)
   
