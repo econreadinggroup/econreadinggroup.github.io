@@ -11,6 +11,6 @@ title:  Deception & Truth-telling Preferences
   : [Abeler et al. (2014)](https://econreadinggroup.github.io/assets/Abeler et al. (2014, JPublEc).pdf)
 
 : Truthtelling Preferences
-  : [Abeler et al. (2014)](https://econreadinggroup.github.io/assets/Abeler et al. (2014, ECTA).pdf)
+  : [Abeler et al. (2019)](https://econreadinggroup.github.io/assets/Abeler et al. (2019, ECTA).pdf)
 
 
