@@ -3,7 +3,7 @@ title:  Self & Group Identity
 ---
 
 
-[TBC]
+[_TBC_]
 : Group Identity and Gender
   : [Solow & Kirkwood (2002)](https://econreadinggroup.github.io/assets/Solow & Kirkwood (2002, JEBO).pdf)
 
