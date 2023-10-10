@@ -5,7 +5,8 @@ title:  Fairness
 
 [_TBC_]
 : Inequity Aversion
-  : [Fehr & Schmidt (1999)](https://econreadinggroup.github.io/assets/Fehr & Schmidt (1999, AER).pdf)
+  : [Fehr & Schmidt (1999)](https://econreadinggroup.github.io/assets/Fehr & Schmidt (1999, QJE).pdf)
+
 
 : Fairness Rules Pluralism
   : [Cappelen et al. (2007)](https://econreadinggroup.github.io/assets/Cappelen et al. (2007, AER).pdf)
