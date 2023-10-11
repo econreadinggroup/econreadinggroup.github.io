@@ -16,7 +16,7 @@ Welcome to the 2023 _Behavioral Economics Reading Group_ course offered by the D
 <br /> 
 
 #### Time: 
-- Bi-weekly on Mondays at 7 p.m. GMT+3, starting October 30, 2023.
+- Bi-weekly on Mondays at 20:15 GMT+3, starting October 30, 2023.
 <br />
 
 #### Location: 
